@@ -29,3 +29,4 @@ The following tools and components are required:
 The contributors of this project are:
 
 - Miguel Patón Gutiérrez (migpatgut@alum.us.es)
+- Alejandro Barba Moreno (alebarmor@alum.us.es)
