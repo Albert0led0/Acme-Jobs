@@ -28,4 +28,7 @@ The following tools and components are required:
 
 The contributors of this project are:
 
+- Alejandro Barba Moreno (alebarmor@alum.us.es)
 - Luca Bonacini (lucbon@alum.us.es)
+- Miguel Patón Gutiérrez (migpatgut@alum.us.es)
+- Alberto Toledo Mayorga (albtolmay@alum.us.es)
