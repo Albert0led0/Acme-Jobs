@@ -19,11 +19,13 @@
 <acme:menu-bar code="master.menu.home">
 	<acme:menu-left>
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
-			<acme:menu-suboption code="master.menu.anonymous.favourite-link" action="http://www.example.com/"/>
-			<acme:menu-suboption code="master.menu.anonymous.alberto-link" action="https://www.linkedin.com/in/alberto-toledo-mayorga-072419173/"/>
+			<acme:menu-suboption code="master.menu.anonymous.alebarmor-link" action="https://twitter.com/LordKelvin2099/"/>
+			<acme:menu-suboption code="master.menu.anonymous.luca-link" action="https://www.linkedin.com/in/luca-bonacini-a6b650173/"/>
+      <acme:menu-suboption code="master.menu.anonymous.miguel-link" action="http://www.pccomponentes.com/"/>
+      <acme:menu-suboption code="master.menu.anonymous.alberto-link" action="https://www.linkedin.com/in/alberto-toledo-mayorga-072419173/"/>
 		</acme:menu-option>
 
-		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
+		<acme:menu-option code="maste r.menu.administrator" access="hasRole('Administrator')">
 			<acme:menu-suboption code="master.menu.administrator.user-accounts" action="/administrator/user-account/list"/>
 			<acme:menu-separator/>
 			<acme:menu-suboption code="master.menu.administrator.shutdown" action="/master/shutdown"/>
@@ -53,4 +55,3 @@
 		<acme:menu-option code="master.menu.sign-out" action="/master/sign-out" access="isAuthenticated()"/>
 	</acme:menu-right>
 </acme:menu-bar>
-
