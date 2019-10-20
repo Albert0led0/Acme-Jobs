@@ -33,6 +33,8 @@ master.menu.anonymous.alebarmor-link = Alebarmor's link
 master.menu.anonymous.luca-link = Luca's link
 master.menu.anonymous.miguel-link = Miguel's link
 master.menu.anonymous.alberto-link = Alberto's link
+master.menu.anonymous.listar-toledo-bulletin = Toledo's bulletins
+master.menu.anonymous.crear-toledo-bulletin = Create a bulletin for Toledo
 
 # master.menu.administrator ###################################################
 
