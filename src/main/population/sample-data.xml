@@ -17,4 +17,24 @@
 
 	<import resource="conversion-service.xml" />
 
+    <!-- Bulletin -->
+    
+    <bean id="BarbaBulletin01" class="acme.entities.bulletins.BarbaBulletin">
+        <property name="author" value="Alejandro Barba"/>
+        <property name="text" value="Bulletin de prueba 1"/>
+        <property name="moment" value="2019/07/07 00:00"/>
+    </bean>
+    
+    <bean id="BarbaBulletin02" class="acme.entities.bulletins.BarbaBulletin">
+        <property name="author" value="Alejandro Barba"/>
+        <property name="text" value="Bulletin de prueba 2"/>
+        <property name="moment" value="2019/08/08 00:00"/>
+    </bean>
+    
+    <bean id="BarbaBulletin03" class="acme.entities.bulletins.BarbaBulletin">
+        <property name="author" value="Alejandro Barba"/>
+        <property name="text" value="Bulletin de prueba 3"/>
+        <property name="moment" value="2019/09/09 00:00"/>
+    </bean>
+    
 </beans>
