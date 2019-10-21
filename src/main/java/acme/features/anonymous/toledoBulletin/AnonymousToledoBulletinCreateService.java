@@ -58,7 +58,7 @@ public class AnonymousToledoBulletinCreateService implements AbstractCreateServi
 		res = new ToledoBulletin();
 		res.setAuthor("Alberto");
 		res.setText("Inicialización");
-		res.setEmail("email@inicial");
+		res.setEmail("unemail@inicial");
 		res.setMoment(moment);
 
 		return res;
