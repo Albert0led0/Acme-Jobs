@@ -42,7 +42,7 @@ public class AnonymousBarbaBulletinCreateService implements AbstractCreateServic
 		assert entity != null;
 		assert model != null;
 
-		request.unbind(entity, model, "author", "text");
+		request.unbind(entity, model, "author", "text", "topic");
 
 	}
 
@@ -58,6 +58,7 @@ public class AnonymousBarbaBulletinCreateService implements AbstractCreateServic
 		result = new BarbaBulletin();
 		result.setAuthor("Alejandro Barba");
 		result.setText("Lorem ipsum!");
+		result.setTopic("Subject");
 		result.setMoment(moment);
 
 		return result;

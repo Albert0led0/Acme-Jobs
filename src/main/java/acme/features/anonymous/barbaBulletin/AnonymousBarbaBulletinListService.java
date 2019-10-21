@@ -31,7 +31,7 @@ public class AnonymousBarbaBulletinListService implements AbstractListService<An
 		assert entity != null;
 		assert model != null;
 
-		request.unbind(entity, model, "author", "text", "moment");
+		request.unbind(entity, model, "author", "text", "topic", "moment");
 
 	}
 

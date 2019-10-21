@@ -29,6 +29,9 @@ public class BarbaBulletin extends DomainEntity {
 	@NotBlank
 	private String				text;
 
+	@NotBlank
+	private String				topic;
+
 	@Temporal(TemporalType.TIMESTAMP)
 	@Past
 	private Date				moment;

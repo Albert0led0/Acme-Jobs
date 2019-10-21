@@ -309,7 +309,8 @@ BarbaBulletin
 --
 + moment: Date {Temporal(TIMESTAMP), Past}
 + author: String {NotBlank}
-+ text: String {NotBlank}</panel_attributes>
++ text: String {NotBlank}
++ topic: String {NotBlank}</panel_attributes>
     <additional_attributes/>
   </element>
 </diagram>

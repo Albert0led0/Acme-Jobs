@@ -6,5 +6,6 @@
 <acme:list readonly="true">
 	<acme:list-column code="anonymous.barba-bulletin.list.label.moment" path="moment" width="20%"/>
 	<acme:list-column code="anonymous.barba-bulletin.list.label.author" path="author" width="20%"/>
+	<acme:list-column code="anonymous.barba-bulletin.list.label.topic" path="topic" width="20%"/>
 	<acme:list-column code="anonymous.barba-bulletin.list.label.text" path="text" width="60%"/>		
 </acme:list>

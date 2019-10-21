@@ -6,6 +6,7 @@
 <acme:form>
 	<acme:form-textbox code="anonymous.barba-bulletin.form.label.author" path="author"/>
 	<acme:form-textarea code="anonymous.barba-bulletin.form.label.text" path="text"/>
+	<acme:form-textarea code="anonymous.barba-bulletin.form.label.topic" path="topic"/>
 	
 	<acme:form-submit code="anonymous.barba-bulletin.form.button.create" action="/anonymous/barba-bulletin/create"/>
 	<acme:form-return code="anonymous.barba-bulletin.form.button.return"/>
