@@ -31,7 +31,7 @@ public class AnonymousToledoBulletinListService implements AbstractListService<A
 		assert entity != null;
 		assert model != null;
 
-		request.unbind(entity, model, "author", "text", "moment");
+		request.unbind(entity, model, "author", "text", "moment", "email");
 
 	}
 

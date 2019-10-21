@@ -42,7 +42,7 @@ public class AnonymousToledoBulletinCreateService implements AbstractCreateServi
 		assert entity != null;
 		assert model != null;
 
-		request.unbind(entity, model, "author", "text");
+		request.unbind(entity, model, "author", "text", "email");
 
 	}
 
@@ -58,6 +58,7 @@ public class AnonymousToledoBulletinCreateService implements AbstractCreateServi
 		res = new ToledoBulletin();
 		res.setAuthor("Alberto");
 		res.setText("Inicialización");
+		res.setEmail("email@inicial");
 		res.setMoment(moment);
 
 		return res;

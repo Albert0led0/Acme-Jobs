@@ -23,12 +23,14 @@
 		<property name="author" value="Alberto Toledo" />
 		<property name="text" value="Estoy feliz, prueba 1" />
 		<property name="moment" value="2019/08/08 19:31" />
+		<property name="email" value="email@prueba1" />
 	</bean>
 	
 	<bean id="ToledoBulletin02"	class="acme.entities.bulletins.ToledoBulletin">
 		<property name="author" value="Alberto Toledo" />
 		<property name="text" value="Estoy muy feliz, prueba 2" />
 		<property name="moment" value="2019/08/08 19:36" />
+		<property name="email" value="email@prueba2.com" />
 	</bean>
 
 </beans>
