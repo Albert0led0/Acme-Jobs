@@ -42,6 +42,7 @@
        `id` integer not null,
         `version` integer not null,
         `author` varchar(255),
+        `email` varchar(255),
         `moment` datetime(6),
         `text` varchar(255),
         primary key (`id`)
