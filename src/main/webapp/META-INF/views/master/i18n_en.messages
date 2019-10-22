@@ -34,6 +34,9 @@ master.menu.anonymous.luca-link = Luca's link
 master.menu.anonymous.miguel-link = Miguel's link
 master.menu.anonymous.alberto-link = Alberto's link
 
+master.menu.anonymous.listar-paton-bulletin = Paton's bulletins
+master.menu.anonymous.crear-paton-bulletin = Create a bulletin for Paton
+
 # master.menu.administrator ###################################################
 
 master.menu.administrator = Administrator

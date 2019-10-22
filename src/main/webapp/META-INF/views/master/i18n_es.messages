@@ -34,6 +34,9 @@ master.menu.anonymous.luca-link = Enlace de Luca
 master.menu.anonymous.miguel-link = Enlace de Miguel
 master.menu.anonymous.alberto-link = Enlace de Alberto
 
+master.menu.anonymous.listar-paton-bulletin = Boletines de Paton
+master.menu.anonymous.crear-paton-bulletin = Crear un boletin para Paton
+
 # master.menu.administrator ###################################################
 
 master.menu.administrator = Administrador

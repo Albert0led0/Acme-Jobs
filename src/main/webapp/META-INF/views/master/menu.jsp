@@ -23,6 +23,9 @@
 			<acme:menu-suboption code="master.menu.anonymous.luca-link" action="https://www.linkedin.com/in/luca-bonacini-a6b650173/"/>
       <acme:menu-suboption code="master.menu.anonymous.miguel-link" action="http://www.pccomponentes.com/"/>
       <acme:menu-suboption code="master.menu.anonymous.alberto-link" action="https://www.linkedin.com/in/alberto-toledo-mayorga-072419173/"/>
+      <acme:menu-suboption code="master.menu.anonymous.listar-paton-bulletin" action="/anonymous/paton-bulletin/list/"/>
+      <acme:menu-suboption code="master.menu.anonymous.crear-paton-bulletin" action="/anonymous/paton-bulletin/create/"/>
+
 		</acme:menu-option>
 
 		<acme:menu-option code="maste r.menu.administrator" access="hasRole('Administrator')">
