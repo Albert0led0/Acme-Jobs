@@ -33,6 +33,8 @@ master.menu.anonymous.alebarmor-link = Alebarmor's link
 master.menu.anonymous.luca-link = Luca's link
 master.menu.anonymous.miguel-link = Miguel's link
 master.menu.anonymous.alberto-link = Alberto's link
+master.menu.anonymous.bonacini-bulletin-list = Bonacini's bulletins
+master.menu.anonymous.bonacini-bulletin-create = Create a bulletin for Bonacini
 
 # master.menu.administrator ###################################################
 
