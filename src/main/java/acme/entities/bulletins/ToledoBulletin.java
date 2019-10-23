@@ -34,6 +34,7 @@ public class ToledoBulletin extends DomainEntity {
 	@Past
 	private Date				moment;
 
+	@NotBlank
 	@Email
 	private String				email;
 
