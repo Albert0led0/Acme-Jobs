@@ -24,6 +24,8 @@
 
     drop table if exists `authenticated`;
     
+    drop table if exists `toledo_bulletin`;
+    
     drop table if exists `paton_bulletin`;
 
     drop table if exists `bonacini_bulletin`;

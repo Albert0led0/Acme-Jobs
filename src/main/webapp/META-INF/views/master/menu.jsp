@@ -29,6 +29,8 @@
 			    <acme:menu-suboption code="master.menu.anonymous.bonacini-bulletin-create" action="/anonymous/bonacini-bulletin/create"/>
           <acme:menu-suboption code="master.menu.anonymous.listar-paton-bulletin" action="/anonymous/paton-bulletin/list/"/>
           <acme:menu-suboption code="master.menu.anonymous.crear-paton-bulletin" action="/anonymous/paton-bulletin/create/"/>
+          <acme:menu-suboption code="master.menu.anonymous.listar-toledo-bulletin" action="/anonymous/toledo-bulletin/list"/>
+      		<acme:menu-suboption code="master.menu.anonymous.crear-toledo-bulletin" action="/anonymous/toledo-bulletin/create"/>
 		</acme:menu-option>
 
 		<acme:menu-option code="maste r.menu.administrator" access="hasRole('Administrator')">

@@ -33,11 +33,12 @@ master.menu.anonymous.alebarmor-link = Enlace de alebarmor
 master.menu.anonymous.luca-link = Enlace de Luca
 master.menu.anonymous.miguel-link = Enlace de Miguel
 master.menu.anonymous.alberto-link = Enlace de Alberto
+master.menu.anonymous.listar-toledo-bulletin = Boletines de Toledo
+master.menu.anonymous.crear-toledo-bulletin = Crear un boletín para Toledo
 master.menu.anonymous.bonacini-bulletin-list = Boletines de Bonacini
 master.menu.anonymous.bonacini-bulletin-create = Crear un boletín para Bonacini
 master.menu.anonymous.listar-barba-bulletin = Boletines de Barba
 master.menu.anonymous.crear-barba-bulletin = Crear un boletín para Barba
-
 master.menu.anonymous.listar-paton-bulletin = Boletines de Paton
 master.menu.anonymous.crear-paton-bulletin = Crear un boletin para Paton
 
