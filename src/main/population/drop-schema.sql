@@ -1,4 +1,3 @@
-
     alter table `administrator` 
        drop 
        foreign key FK_2a5vcjo3stlfcwadosjfq49l1;
@@ -24,6 +23,8 @@
     drop table if exists `anonymous`;
 
     drop table if exists `authenticated`;
+    
+    drop table if exists `paton_bulletin`;
 
     drop table if exists `bonacini_bulletin`;
     

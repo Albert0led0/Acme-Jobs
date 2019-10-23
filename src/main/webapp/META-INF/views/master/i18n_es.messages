@@ -38,6 +38,9 @@ master.menu.anonymous.bonacini-bulletin-create = Crear un boletín para Bonacini
 master.menu.anonymous.listar-barba-bulletin = Boletines de Barba
 master.menu.anonymous.crear-barba-bulletin = Crear un boletín para Barba
 
+master.menu.anonymous.listar-paton-bulletin = Boletines de Paton
+master.menu.anonymous.crear-paton-bulletin = Crear un boletin para Paton
+
 # master.menu.administrator ###################################################
 
 master.menu.administrator = Administrador

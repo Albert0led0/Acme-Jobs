@@ -69,5 +69,21 @@
         <property name="topic" value="Informática"/>
         <property name="moment" value="2019/09/09 00:00"/>
     </bean>
+  
+    <!-- PatonBulletins -->
+  
+  	<bean id="PatonBulletin1" class="acme.entities.bulletins.PatonBulletin">
+		    <property name="author" value="Miguel Patón Gutiérrez" />
+		    <property name="text" value="Esta es la primera prueba" />
+		    <property name="moment" value="2019/10/20 23:42" />
+		    <property name="company" value="Compañia de prueba" />
+	  </bean>
+	
+	  <bean id="PatonBulletin2" class="acme.entities.bulletins.PatonBulletin">
+		    <property name="author" value="Miguel Angel Patón Carmona" />
+		    <property name="text" value="Esta es la segunda prueba" />
+		    <property name="moment" value="2019/10/19 20:15" />
+		    <property name="company" value="Empresa de prueba" />
+	  </bean>
 
 </beans>
