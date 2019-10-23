@@ -299,18 +299,18 @@ has v</panel_attributes>
   <element>
     <id>UMLClass</id>
     <coordinates>
-      <x>294</x>
-      <y>364</y>
-      <w>224</w>
-      <h>91</h>
+      <x>217</x>
+      <y>371</y>
+      <w>231</w>
+      <h>84</h>
     </coordinates>
     <panel_attributes>&lt;&lt;Entity&gt;&gt;
-bonaciniBulletin
+BarbaBulletin
 --
 + moment: Date {Temporal(TIMESTAMP), Past}
 + author: String {NotBlank}
 + text: String {NotBlank}
-+ city: String {NotBlank}</panel_attributes>
++ topic: String {NotBlank}</panel_attributes>
     <additional_attributes/>
   </element>
 </diagram>
