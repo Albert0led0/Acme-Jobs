@@ -25,6 +25,8 @@
 
     drop table if exists `authenticated`;
 
+    drop table if exists `bonacini_bulletin`;
+    
     drop table if exists `barba_bulletin`;
 
     drop table if exists `consumer`;
